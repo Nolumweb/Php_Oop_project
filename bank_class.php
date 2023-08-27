@@ -1,4 +1,17 @@
 <?php
+
+
+// 1) Create a Bank Class
+// 2) Define Properties of Bank Class
+// 	- accno
+// 	- name
+// 	- balance
+// 3) Define Methods
+// 	- depositAmount($amt)
+// 	- deductAmount($amt)
+// 	- checkBalance()
+// 4) Create an Account for User
+// 5) CheckBalance, DepositAccount, DeductAmount
 class bank{
     
     public $accno;
